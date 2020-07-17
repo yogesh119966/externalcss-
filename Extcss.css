@@ -1,0 +1,122 @@
+
+#container1{
+    height: 100%;
+    width:100% ;
+    margin: 0%;
+    
+}
+    #header{ 
+        height: 10%;
+        width: 100%;
+        margin-top:0%;
+        background-color: lightblue;
+
+    }
+        #logo{
+            float: left;
+            height:80% ;
+            widows: 30%;
+            margin-top: 0.5%;
+            margin-left: 2%;  
+        }
+        #menue{
+            height: 80%;
+            width: 50%;
+            float: right;
+            margin-left: 30%;
+            margin-top: 0.5%;
+            
+           
+        }
+        li{
+            display: inline;
+            padding-top: 0.2cm;
+            margin-left: 4%;
+        }
+
+    #middle1{
+        height:67%;
+        width: 100%;
+        margin-top:0%;
+        background-color: lightgray;
+        
+    }
+        #mid1{
+            height: 98%;
+            width: 60%;    
+            float: left;
+            }
+
+        #mid11{
+            height: 98%;
+            width: 35%;
+            float: right;
+           
+        }
+    
+        .label{
+            padding-left: 2cm;
+            text-align: left;
+            font-size: large;
+            font-style: inherit;
+        }
+        .input{
+            height: 1cm;
+            width: 6cm;
+            display: grid;
+            margin-left: 2cm;
+        }
+        .button{
+            margin-top: 0.5cm;
+            margin-left: 2cm;
+            float: left;
+            background-color: palegreen;
+            border-radius: 8px;
+        }  
+    
+    #middle2{
+        height:60%;
+        width: 100%;
+        margin-top:0%;
+        background-color: lightgray;
+       
+    }   
+        .mid2{
+            height:90%;
+            width:30%;
+            float: left;
+            margin-left: 2%;
+            margin-top: 1%;
+           
+        
+        }
+        .h{
+            text-align: center;
+            text-decoration: wavy;
+        }
+        .p{
+            padding: 1%;
+            text-align: justify;
+            color: black;
+            text-indent: 20px;   
+        }
+        
+    #footer{
+        height:10%;
+        width:100%;
+        margin-top:0% ;
+        background-color: lightblue;
+       
+    }
+        #footerleft{
+                float: left;
+                height:95%;
+                width: 60%;
+        }
+       
+        }
+        #footerright{
+                float: left;
+                height:95%;
+                width: 30%;
+        }
